@@ -2,7 +2,7 @@
 
 ## Screenshot
 
-![IMG](https://github.com/hiplon/lighthouse100-theme/raw/master/images/screenshot.png)
+![IMG](https://github.com/hkwk/lighthouse100-theme/raw/master/images/screenshot.png)
 
 
 ## Demo https://vnf.cc
